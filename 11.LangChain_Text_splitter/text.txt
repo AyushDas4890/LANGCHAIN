@@ -1,0 +1,1 @@
+Text splitter is the process of breaking large  chunks of txt (like articles, PDFs, HTML pages , or books) into smaller, magageable peices(chunks) that an LLM can handle effectively.
